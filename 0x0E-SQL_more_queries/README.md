@@ -1,21 +1,3 @@
-
-luischaparroc
-/
-holbertonschool-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-1
-Actions
-Projects
-Security
-Insights
-holbertonschool-higher_level_programming/0x0E-SQL_more_queries/README.md
-@luischaparroc
-luischaparroc [Update]: README file
- 1 contributor
-34 lines (30 sloc)  2.49 KB
 SQL - More queries
 Project done during Full Stack Software Engineering studies at Holberton School. It aims to learn about how to create a new user, manage privileges for a user, PRIMARY KEY, FOREIGN KEY, constraints, subqueries, JOIN and UNION with MySQL.
 
